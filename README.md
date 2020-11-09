@@ -1,13 +1,17 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "hello, world"
 
-Things you may want to cover:
+This is the first application for the 
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Christian Hogue](https://github.com/chogue1/). Hello, world!
 
-* Ruby version
 
-* System dependencies
+* Ruby version -- 2.6.3p62
+
+Things to cover in the future:
+
+* System dependencies 
 
 * Configuration
 
@@ -20,5 +24,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
